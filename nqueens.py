@@ -1,6 +1,4 @@
 # Author: Gus Kalivas
-# Program: p3 nqueens
-# Wisc: wkalivas
 
 
 import random
